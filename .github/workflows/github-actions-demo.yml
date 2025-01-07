@@ -1,0 +1,7 @@
+# this is a basic workflow
+name: GitHub Actions Demo
+
+#controls
+on: 
+  # triggers
+  push: 
